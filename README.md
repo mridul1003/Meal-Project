@@ -3,7 +3,7 @@ WEBSITE for food ordering
 
 This website is made with perspective to test what I have learnt in the past 1 month .
 You may encounter different CSS tags which you may have seen for the first time but don't get scared of those as you will get used to while practicing them.
-This website consist of 4 sections i.e. 1) Navigation Bar  2) Home Section  3) Client Section  4) Contact Section
+This website consist of 4 sections i.e. 1) Navigation Bar  2) Home Section  3) Client Section  4) Contact Section.
 This website is fully responsive for most of the real devices based.
 You may edit the HTML or CSS file as per your convenience.
 Common tags used in HTML are h1, section , nav, ul, li, a, etc. 
